@@ -14,7 +14,7 @@ let userChoices=[];
 // Array of Numbers  ;
 let numbers = [0,1,2,3,4,5,6,7,8,9,];
 // Array of symbols  ;
-let symbols = ['!', '@', '#', '$', '^', '&', '*' ];
+let symbols = ['!', '@', '#', '$', '^', '&', '*', '”' , '%', "'", '(', ')' , '+', '-' , '.', '/', ':', ';' , '<' , '=' , '>' , '?' , '~' ];
 // Creates an array of 26 undefined items // we go through the array and creates an array of numbers from 97 - 122 // 97 - 122 is the key codes for lower case letters a-z;
 let characterCodes = Array.from(Array(26)).map( (_, i) => i +97);
 // converts the key codes into the lower case letters
