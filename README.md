@@ -22,6 +22,7 @@
 
   ## Installation:
     N/A
+    https://yaaseenk.github.io/PasswordGenerator/
 
   ## Usage:
    * Simpily click "Generate Password button and follow each prompt! 
