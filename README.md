@@ -23,8 +23,8 @@
   ## Installation:
     N/A
 
-  ## Usage:!
-   * Simpily 
+  ## Usage:
+   * Simpily click "Generate Password button and follow each prompt! 
 
    
   ## Credits:
